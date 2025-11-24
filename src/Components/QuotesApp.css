@@ -270,6 +270,33 @@
   border-color: #10b981;
 }
 
+.main-site-link {
+  display: block;
+  font-size: 2rem;
+  letter-spacing: 0.05em;
+  text-align: center;
+  color: #9ca3af;
+  text-decoration: none;
+  opacity: 0.85;
+  transition: 0.2s ease;
+}
+
+.main-site-link:hover {
+  color: #e5e7eb;
+  opacity: 1;
+  text-decoration: underline;
+}
+
+.brand-subtitle {
+  text-align: center;
+  margin-top: 4px;
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+  letter-spacing: 0.04em;
+  color: #6b7280; /* gri elegant */
+  opacity: 0.75;
+}
+
 @media (max-width: 850px) {
   .quotes-app {
     width: 75vmin;

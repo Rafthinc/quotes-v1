@@ -111,6 +111,20 @@ const QuotesApp = () => {
           <p className="quote-text">{quote.text}</p>
           <p className="quote-author">{quote.author}</p>
           <i className="bx bxs-quote-alt-right right-quote"></i>
+          <div className="main-site-link">
+            <a
+              href="https://www.psihoterapie-nutritie.ro"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="main-site-link"
+            >
+              www.psihoterapie-nutritie.ro
+            </a>
+
+            <p className="brand-subtitle">
+              Psihoterapie & Nutriție – Roșu Adrian-Francois
+            </p>
+          </div>
         </div>
 
         <div className="circles">
