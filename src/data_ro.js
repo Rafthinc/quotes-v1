@@ -412,4 +412,12 @@ export const quotesRO = [
     author: "Roșu Adrian-Francois",
     text: "Când îți cunoști rănile, nu mai lași pe oricine să apese pe ele.",
   },
+  {
+    id: "orig_31",
+    category: "psihologic",
+    author: "Roșu Adrian-Francois",
+    text: "Mintea este cel mai puternic instrument. Dacă o controlezi, îți creează realitatea. Dacă te controlează, îți creează suferința.",
+  },
+
+  //Mintea este cel mai puternic instrument. Dacă o controlezi, îți creează realitatea. Dacă te controlează, îți creează suferința
 ];

@@ -412,4 +412,11 @@ export const quotesEN = [
     author: "Roșu Adrian-Francois",
     text: "When you know your wounds, you no longer let anyone press on them.",
   },
+  {
+    id: "orig_31",
+    category: "psihologic",
+    author: "Roșu Adrian-Francois",
+    text: "The mind is the most powerful instrument. If you control it, it creates your reality. If it controls you, it creates your suffering.",
+  },
 ];
+//The mind is the most powerful instrument. If you control it, it creates your reality. If it controls you, it creates your suffering.
